@@ -1,4 +1,4 @@
-# Data Fusion Contest (1 место)
+# Data Fusion Contest 2024 (1 место)
 Data Fusion Contest 2024 Задача 2 «Отток»
 Организаторы: [Data Fusion](https://data-fusion.ru/contest.html)  
 Площадка: [ODS.ai](https://ods.ai/competitions/data-fusion2024-churn)  
